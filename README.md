@@ -1,2 +1,2 @@
 # HZ.eeerdlegentt sms bomber
- insta=erdlegentt00
+ insta=erdlegentt
